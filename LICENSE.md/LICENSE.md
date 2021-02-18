@@ -1,6 +1,6 @@
 # Released under MIT License
 
-Copyright (c) 2013 Mark Otto.
+Copyright (c) 2021 Mark.
 
 Copyright (c) 2017 Andrew Fong.
 
